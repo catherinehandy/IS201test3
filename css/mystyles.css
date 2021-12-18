@@ -1,0 +1,9 @@
+
+.colorsandsuch{
+    color:var(--bs-pink);
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+.titles{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
